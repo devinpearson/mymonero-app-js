@@ -69,7 +69,7 @@
     "jsqr": "1.1.1",
     "mymonero-exchange": "^0.1.0",
     "qrcode": "^1.4.4",
-    "uuid": "3.3.2",
+    "uuid": "3.4.0",
     "velocity-animate": "1.5.2",
     "xhr": "2.5.0"
   },
