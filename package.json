@@ -58,7 +58,7 @@
     "node": "12.4.0"
   },
   "dependencies": {
-    "async": "3.1.0",
+    "async": "3.2.0",
     "axios": "^0.19.2",
     "bitcoin-address-validation": "^1.0.2",
     "dotenv": "^8.2.0",
